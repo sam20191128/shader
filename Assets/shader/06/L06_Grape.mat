@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: L06_Grape
+  m_Shader: {fileID: 4800000, guid: b44ed28073d31504db1d8dea2534386c, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseColor:
+        m_Texture: {fileID: 2800000, guid: 0bd81e12bb2a70645842270e37b626f1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SSS_TEX:
+        m_Texture: {fileID: 2800000, guid: 92142b3aae5656245944ab30b688ee19, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _SSS_intensity: 0.85
+    - _SpecularPow: 2
+    - _SpecularPow_copy: 0
+    - _SpecularPower1: 100
+    - _SpecularPower2: 0
+    m_Colors: []
+  m_BuildTextureStacks: []
