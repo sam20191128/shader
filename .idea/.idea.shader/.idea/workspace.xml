@@ -4,33 +4,147 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f5da399a-73c0-4377-a569-aa8116dddefc" name="默认更改列表" comment="" />
+    <list default="true" id="f5da399a-73c0-4377-a569-aa8116dddefc" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Built-In Samples.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/HDRP Samples (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/HDRP Samples.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/LWRP Samples (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/LWRP Samples.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/Sample Resources.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Examples/URP Samples.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMenuItems.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/Editor/Templates/TemplateMenuItems.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/CustomRTTemplates.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/HDSRPTemplates.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/LWSRPTemplates.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/PPStackTemplates.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/HDSRPTemplates 3xx (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/HDSRPTemplates 4xx (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/HDSRPTemplates 572 (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/HDSRPTemplates 5xx (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/HDSRPTemplates 6xx (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/HDSRPTemplates 7xx - 9xx (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/LWSRPTemplates 3xx (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/LWSRPTemplates 4xx (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/SRP (Legacy)/USRPTemplates 7xx - 9xx (Legacy).unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AmplifyShaderEditor/Plugins/EditorResources/Templates/USRPTemplates.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._CamLight.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._CamLight.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L03.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L03.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L04.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L04.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L05.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L05.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L06.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L06.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L07.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L07.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L08.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L08.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L09.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L09.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L10.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L10.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L11.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L11.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L12.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L12.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L13.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L13.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L14&amp;16.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L14&amp;16.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L15.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L15.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L17.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L17.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L18.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L18.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L19.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L19.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L20.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L20.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L21.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/._L21.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/CamLight.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/CamLight.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L01.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L01.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L02.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L02.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L03.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L03.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L04.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L04.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L05.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L05.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L06.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L06.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L07.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L07.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L08.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L08.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L09.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L09.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L10.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L10.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L11.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L11.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L12.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L12.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L13.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L13.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L14&amp;16.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L14&amp;16.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L15.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L15.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L17.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L17.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L18.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L18.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L19.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L19.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L20.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L20.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L21.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Res/zhuangdongwenjian/Prefab/L21.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/shader/24/Scene/L24_Profiles.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/shader/24/Shader/L24_Building.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/shader/24/Shader/L24_Building.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/shader/PostProcessing/DOF_GaussianBlur.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/shader/PostProcessing/DOF_GaussianBlur.shader.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/../AP01-master/AP01/Assets/Lesson24/Script/LightingController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://C:/Program Files/Unity/Hub/Editor/2020.3.25f1c1/Editor/Data/CGIncludes/HLSLSupport.cginc" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../AP01-master/AP01/Assets/Lesson24/Script/Editor/LightingControllerGUI.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/post processing/DOF_BokehBlur.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/shader/13/L13_AB.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/shader/13/L13_AC.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/Program Files/Unity/Hub/Editor/2020.3.25f1c1/Editor/Data/CGIncludes/UnityCG.cginc" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Clock.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/shader/10/L10_OldSchoolPro.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Rotation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2020.3.25f1c1/Editor/Data/CGIncludes/HLSLSupport.cginc" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/post processing/DOF_GaussianBlur.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/Program Files/Unity/Hub/Editor/2020.3.25f1c1/Editor/Data/CGIncludes/UnityShaderVariables.cginc" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/shader/21/L21_CyberPunk.shader" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameStart.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../AP01-master/AP01/Assets/Lesson24/Script/Editor/EmissionShaderGUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Clock.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/shader/20/L20_ClockAnim.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/shader/13/L13_AC.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/shader/13/L13_AB.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/shader/10/L10_OldSchoolPro.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/post processing/DOF_BokehBlur.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@3.2.0/PostProcessing/Runtime/PostProcessEffectSettings.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0086CE0B-9B00-409A-8713-A9C4FE866B9D/0f/ce1355f9/Shader.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/shader/12/L12_Dota2.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.postprocessing@3.2.0/PostProcessing/Editor/Effects/DepthOfFieldEditor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2020.3.25f1c1/Editor/Data/CGIncludes/UnityShaderVariables.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/shader/21/L21_CyberPunk.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/shader/12/L12_Dota2.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameStart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2020.3.25f1c1/Editor/Data/CGIncludes/UnityCG.cginc" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/Program Files/Unity/Hub/Editor/2020.3.25f1c1/Editor/Data/CGIncludes/UnityMetaPass.cginc" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -64,7 +178,6 @@
       <option value="$PROJECT_DIR$/Assets/shaderbook/Chapter12-BrightnessSaturationAndContrast.shader" />
       <option value="$PROJECT_DIR$/Assets/shader/23/L23_EmitLight.shader" />
       <option value="$PROJECT_DIR$/Assets/shader/23/L23_Building.shader" />
-      <option value="$PROJECT_DIR$/Assets/shader/24/Shader/L24_Building.shader" />
       <option value="$PROJECT_DIR$/Assets/shader/24/Script/LightingController.cs" />
       <option value="$PROJECT_DIR$/../AP01-master/AP01/Assets/Lesson24/Script/Editor/EmissionShaderGUI.cs" />
       <option value="$PROJECT_DIR$/Assets/shader/24/Script/Editor/LightingControllerGUI.cs" />
@@ -85,6 +198,7 @@
       <option value="$PROJECT_DIR$/Assets/shader/PostProcessing/DOF_GaussianBlur.shader" />
       <option value="$PROJECT_DIR$/Assets/Scripts/post processing/DOF_BokehBlur.cs" />
       <option value="$PROJECT_DIR$/Assets/shader/PostProcessing/DOF_BokehBlur.shader" />
+      <option value="$PROJECT_DIR$/Assets/shader/24/Shader/L24_Building.shader" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1rjsFSv5k2VdPY3v96bRGFOR192" />
@@ -243,6 +357,7 @@
       <workItem from="1646281494001" duration="318000" />
       <workItem from="1646317671119" duration="168000" />
       <workItem from="1646320659648" duration="1913000" />
+      <workItem from="1646627647519" duration="379000" />
     </task>
     <servers />
   </component>
