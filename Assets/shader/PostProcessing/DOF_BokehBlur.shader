@@ -91,9 +91,9 @@
         {
             float depth = SAMPLE_DEPTH_TEXTURE(_CameraDepthTexture, i.uv_depth);
             float linearDepth = Linear01Depth(depth);
-            float3 worldPos = _WorldSpaceCameraPos + linearDepth;
+            float3 cameraworldPos = _WorldSpaceCameraPos + linearDepth;
 
-            float density = (_End - worldPos) / (_End - _Start);
+            float density = (_End - cameraworldPos) / (_End - _Start);
             density = saturate(density * _Density);
 
             fixed4 finalColor = tex2D(_MainTex, i.uv);
