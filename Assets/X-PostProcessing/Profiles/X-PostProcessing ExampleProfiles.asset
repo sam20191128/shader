@@ -18,23 +18,23 @@ MonoBehaviour:
     value: 1
   BlurRadius:
     overrideState: 1
-    value: 1
+    value: 0.76
   Iteration:
     overrideState: 1
-    value: 32
+    value: 128
   centerOffset:
     overrideState: 1
     value: 0
   AreaSize:
     overrideState: 1
-    value: 1
+    value: 3.6
   areaSmooth:
     overrideState: 1
-    value: 1.2
+    value: 4.1
   showPreview:
     overrideState: 1
     value: 0
---- !u!114 &-993960181136736478
+--- !u!114 &-117560569963593601
 MonoBehaviour:
   m_ObjectHideFlags: 3
   m_CorrespondingSourceObject: {fileID: 0}
@@ -43,30 +43,45 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8b3bbc5404f2acf4a9963784dd2159af, type: 3}
-  m_Name: IrisBlurV2
+  m_Script: {fileID: 11500000, guid: 943c09b621e7d8e489394b2b0b0dc2c2, type: 3}
+  m_Name: GlitchImageBlock
   m_EditorClassIdentifier: 
   active: 0
   enabled:
     overrideState: 1
     value: 1
-  BlurRadius:
-    overrideState: 1
-    value: 1.32
-  Iteration:
-    overrideState: 1
-    value: 60
-  centerOffsetX:
-    overrideState: 1
-    value: 0
-  centerOffsetY:
-    overrideState: 1
-    value: 0
-  AreaSize:
-    overrideState: 1
+  Fade:
+    overrideState: 0
+    value: 1
+  Speed:
+    overrideState: 0
+    value: 0.5
+  Amount:
+    overrideState: 0
+    value: 1
+  BlockLayer1_U:
+    overrideState: 0
+    value: 9
+  BlockLayer1_V:
+    overrideState: 0
+    value: 9
+  BlockLayer2_U:
+    overrideState: 0
+    value: 5
+  BlockLayer2_V:
+    overrideState: 0
+    value: 5
+  BlockLayer1_Indensity:
+    overrideState: 0
     value: 8
-  showPreview:
-    overrideState: 1
+  BlockLayer2_Indensity:
+    overrideState: 0
+    value: 4
+  RGBSplitIndensity:
+    overrideState: 0
+    value: 0.5
+  BlockVisualizeDebug:
+    overrideState: 0
     value: 0
 --- !u!114 &11400000
 MonoBehaviour:
@@ -84,7 +99,8 @@ MonoBehaviour:
   - {fileID: 8224388934115608765}
   - {fileID: 1213104093990521218}
   - {fileID: -6532549381404105149}
-  - {fileID: -993960181136736478}
+  - {fileID: 5980363918734056853}
+  - {fileID: -117560569963593601}
 --- !u!114 &114079023366429692
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -630,6 +646,37 @@ MonoBehaviour:
   RTDownScaling:
     overrideState: 1
     value: 2
+--- !u!114 &5980363918734056853
+MonoBehaviour:
+  m_ObjectHideFlags: 3
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9969333681e2d468201ff37b108ebf, type: 3}
+  m_Name: TiltShiftBlur
+  m_EditorClassIdentifier: 
+  active: 0
+  enabled:
+    overrideState: 1
+    value: 1
+  QualityLevel:
+    overrideState: 1
+    value: 0
+  AreaSize:
+    overrideState: 1
+    value: 0.5
+  BlurRadius:
+    overrideState: 1
+    value: 1
+  Iteration:
+    overrideState: 1
+    value: 2
+  RTDownScaling:
+    overrideState: 1
+    value: 1
 --- !u!114 &8224388934115608765
 MonoBehaviour:
   m_ObjectHideFlags: 3
@@ -648,13 +695,13 @@ MonoBehaviour:
     value: 1
   focusDistance:
     overrideState: 1
-    value: 2.75
+    value: 5.84
   aperture:
     overrideState: 1
-    value: 5.1
+    value: 0.5
   focalLength:
     overrideState: 1
-    value: 50
+    value: 34
   kernelSize:
     overrideState: 1
-    value: 1
+    value: 3

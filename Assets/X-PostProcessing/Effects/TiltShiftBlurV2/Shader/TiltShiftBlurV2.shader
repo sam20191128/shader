@@ -25,14 +25,14 @@ Shader "Hidden/X-PostProcessing/TiltShiftBlurV2"
 	half4 _Distortion;
 	half4 _Params;
 	
-	#define _Offset _Gradient.x
-	#define _Area _Gradient.y
-	#define _Spread _Gradient.z
-	#define _CubicDistortion _Distortion.x
-	#define _DistortionScale _Distortion.y
-	#define _Iteration _Params.x
-	#define _Radius _Params.y
-	#define _PixelSize _Params.zw
+	#define _Offset											_Gradient.x
+	#define _Area							_Gradient.y
+	#define _Spread								_Gradient.z
+	#define _CubicDistortion						_Distortion.x
+	#define _DistortionScale							 _Distortion.y
+	#define _Iteration											_Params.x
+	#define _Radius							 _Params.y
+	#define _PixelSize				_Params.zw
 	
 	float TiltShiftMask(float2 uv)
 	{

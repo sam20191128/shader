@@ -9409,7 +9409,6 @@ GameObject:
   - component: {fileID: 963194232}
   - component: {fileID: 963194235}
   - component: {fileID: 963194238}
-  - component: {fileID: 963194243}
   - component: {fileID: 963194237}
   - component: {fileID: 963194236}
   m_Layer: 0
@@ -9836,7 +9835,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: dc21ae0f51b68e544bef050fc9631616, type: 3}
   m_Name: 
@@ -9914,25 +9913,6 @@ MonoBehaviour:
   brightness: 1
   saturation: 1
   contrast: 1
---- !u!114 &963194243
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 963194225}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: be3a25607e1a8994a9815e78c70cf9e6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  gaussianBlurShader: {fileID: 4800000, guid: 4385993d0e7ef3644aaa6c8b5a1ec2ba, type: 3}
-  blurSize: 0.00594
-  iterations: 50
-  RTDownSample: 2
-  start: 0.1
-  end: 4
-  density: 10
 --- !u!1001 &968753286
 PrefabInstance:
   m_ObjectHideFlags: 0
